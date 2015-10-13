@@ -1,7 +1,7 @@
 # RDSDump
 BACPAC generator for Amazon RDS SQL Server.
 
-It is a C#.NET Console Application that search for the latest origin database Snapshot, restore it on a temporary RDS instance, generate a BACPAC file, upload it to S3 and delete the temporary RDS instance. All must have parameters are defined on **Configurations** section.
+It is a C#.NET Console Application that search for the latest origin database Snapshot, restore it on a temporary RDS instance, generate a BACPAC file, upload it to S3 and delete the temporary RDS instance. All required parameters are defined on **Configurations** section.
 
 
 
