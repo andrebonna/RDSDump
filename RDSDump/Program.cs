@@ -73,7 +73,6 @@ namespace RDSDump
             {
                 Console.WriteLine("Error Encountered:{0} Inner Exception: {1}", e.Message, e.InnerException);
             }
-            Console.ReadKey();
         }
 
 
